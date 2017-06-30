@@ -1,0 +1,24 @@
+{
+	"skills":[
+	{
+		"name":"Python & Django",
+		"level":"98%"
+	},
+	{
+		"name":"Javascript & jQuery",
+		"level":"98%"
+	},
+	{
+		"name":"Angular",
+		"level":"95%"
+	},
+	{
+		"name":"HTML5 & CSS",
+		"level":"80%"
+	},
+	{
+		"name":"Sketch & Photoshop",
+		"level":"75%"
+	}
+	]
+}
