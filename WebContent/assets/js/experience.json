@@ -2,10 +2,17 @@
 	"experiences":[
 	{
 		"role":"Java Developer",
-		"time":"2015 - Present",
-		"company":"Startup",
-		"location":"San Francisco",
-		"detail":"Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+		"time":"09/2017 - Present",
+		"company":"Commonwealth Department of Elementary and Secondary Education",
+		"location":"Malden, MA",
+		"detail":"Technologies: Java, AngularJS, Hibernate, Spring, REST, Teamsite, Linux, Oracle, JIRA, GIT</br>Responsibilities: Implemented offering monitoring function; Supported on the videos, images and other kinds of media deployment, monitored workflows status; Diagnosed and identified root cause of incidents; Escalated and collaborated with other teams to fix issues in time; Reported weekly outstanding production incidents to VP.</br>Challenges: Worked under intense environment; Solved production incidents ASAP; Turned over to teams that in another time zone.</br>Summary: Resolved issues on time; Ensured delivery go live to all platforms as scheduled; More than one million HBO users could watch subscribed content on time."
+	},
+	{
+		"role":"Software Developer",
+		"time":"11/2010 - 05/2013",
+		"company":"Home Box Office",
+		"location":"New York/Shanghai",
+		"detail":"Technologies: Java, AngularJS, Hibernate, Spring, REST, Teamsite, Linux, Oracle, JIRA, GIT</br>Responsibilities: Implemented offering monitoring function; Supported on the videos, images and other kinds of media deployment, monitored workflows status; Diagnosed and identified root cause of incidents; Escalated and collaborated with other teams to fix issues in time; Reported weekly outstanding production incidents to VP.</br>Challenges: Worked under intense environment; Solved production incidents ASAP; Turned over to teams that in another time zone.</br>Summary: Resolved issues on time; Ensured delivery go live to all platforms as scheduled; More than one million HBO users could watch subscribed content on time."
 	},
 	{
 		"role":"Java Developer",

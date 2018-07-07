@@ -54,6 +54,7 @@ jQuery(document).ready(function($) {
     		experiencesHtml += "<div class='time'>" + exp.time + "</div>";
     		experiencesHtml += "</div><!--//upper-row-->";
     		experiencesHtml += "<div class='company'>" + exp.company + "</div>";
+    		experiencesHtml += "<div class='location'>" + exp.location + "</div>";
     		experiencesHtml += "</div><!--//meta-->";
     		experiencesHtml += "<div class='details'>" + exp.detail + "</div><!--//details-->";
     		experiencesHtml += "</div><!--//item-->";

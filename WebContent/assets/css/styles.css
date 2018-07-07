@@ -212,8 +212,11 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .company {
-  margin-bottom: 10px;
   color: #97AAC3;
+}
+.main-wrapper .location {
+  margin-bottom: 10px;
+  color: #3F4650;
 }
 .main-wrapper .project-title {
   font-size: 16px;
